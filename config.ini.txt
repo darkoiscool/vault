@@ -1,0 +1,32 @@
+[aimbot]
+activated = 1
+range = 314
+fov = 186
+smoothness = 1
+FirstPerson = 1
+ShowFov = 0
+FirstPersonLockOn = 1
+SelectedAimAt = 8
+X = 1
+Y = -1
+sensitivity = 7
+AimbotType = 0
+IsHorizontalPrediction = 0
+IsPrediction = 1
+IsVertPred = 1
+HorizontalPrediction = 7.048000
+isStickyAim = 1
+VerticalPrediction = 6.612000
+Prediction = 2.000000
+verticalSmoother = 1
+ffa = 0
+wallcheck = 0
+triggerbot = 0
+triggdelay = 125
+isLockOnOnly = 0
+detectview = 0
+SelectedStepBy = 0
+SelectedCurve = 0
+SelectedPathType = 0
+CrosshairSize = 2.000000
+

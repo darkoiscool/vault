@@ -1,0 +1,10 @@
+[Hotkey]
+AimbotHotkey = 113
+MenuHotkey = 93
+FirstPersonHotkey = 2
+ThirdPersonHotkey = 2
+ToggleAllHotkey = 115
+FlyHotkey = 162
+EspHotkey = 114
+UnfairAimbotHotkey = 0
+TriggerbotHotkey = 0

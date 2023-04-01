@@ -1,0 +1,29 @@
+[esp]
+activated = 0
+teamonly = 0
+showname = 0
+Type = 0
+ShowTeamName = 0
+BasedTeamColours = 0
+DistanceBasedTracers = 0
+showhealth = 0
+tracers = 0
+healthBarType = 0
+ShowTeamMembers = 0
+isSkeleton = 0
+IsRainbow = 0
+RainbowSpeed = 0.500000
+IsESPDistance = 0
+EspDistance = 500
+IsESPBackground = 0
+camerafov = 70
+radar = 0
+radarzoom = 1
+radarX = 1280
+radarY = 684
+storedCheatX = 1280
+storedCheatY = 684
+IsChams = 0
+radar_radius = 150.000000
+showdistance = 0
+
